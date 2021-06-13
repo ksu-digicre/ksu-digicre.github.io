@@ -15,6 +15,8 @@
 * 現在予定はありません
 
 ## 活動報告
+* 京都産業大学 情報理工学部の教授らとの座談会
+  * http://www.jsh.kyoto-su.ac.jp/news/210128_02970.html
 * TeraCoder2019に参加
   * https://tcjudge.github.io/teaser-site/2019/
 * 第57回宣伝会議賞 校内ワークショップに参加
