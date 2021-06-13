@@ -16,9 +16,9 @@
 
 ## 活動報告
 * TeraCoder2019に参加
- * https://tcjudge.github.io/teaser-site/2019/
+  * https://tcjudge.github.io/teaser-site/2019/
 * 第57回宣伝会議賞 校内ワークショップに参加
- * https://senden.co/
+  * https://senden.co/
 * 文化祭の情報科展示にて協力展示
 * OSC2019@京都にブース出展
- * https://www.ospn.jp/osc2019-kyoto/
+  * https://www.ospn.jp/osc2019-kyoto/
