@@ -16,5 +16,7 @@
   * https://www.ipsj.or.jp/event/taikai/84/84PosterSession/
 
 ## 活動報告
+* 情報理工学部 教授との座談会2022
+  * http://jsh.kyoto-su.ac.jp/news/220310_02906.html
 * TeraCoder2021に参加
   * https://tcjudge.github.io/teaser-site/2021/
