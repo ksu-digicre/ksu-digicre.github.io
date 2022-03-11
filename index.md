@@ -16,9 +16,5 @@
   * https://www.ipsj.or.jp/event/taikai/84/84PosterSession/
 
 ## 活動報告
-* 図書室 企画展示「プログラミング」にてゲーム展示
-* 高校オープンキャンパス2にてゲーム展示
-* 中学オープンキャンパスにてゲーム展示
-* 高校オープンキャンパスにてゲーム展示
-* 京都産業大学 情報理工学部の教授らとの座談会
-  * http://www.jsh.kyoto-su.ac.jp/news/210128_02970.html
+* TeraCoder2021に参加
+  * https://tcjudge.github.io/teaser-site/2021/
