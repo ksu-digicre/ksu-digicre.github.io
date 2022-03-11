@@ -12,10 +12,11 @@
 * 現在予定はありません
 
 ## 外部向けイベントの予定
-* 第84回情報処理学会 全国大会併催 第4回中高生情報学研究コンテストでポスター発表
-  * https://www.ipsj.or.jp/event/taikai/84/84PosterSession/
+* 現在予定はありません
 
 ## 活動報告
+* 第84回情報処理学会 全国大会併催 第4回中高生情報学研究コンテスト
+  * http://jsh.kyoto-su.ac.jp/news/220310_02905.html
 * 情報理工学部 教授との座談会2022
   * http://jsh.kyoto-su.ac.jp/news/220310_02906.html
 * TeraCoder2021に参加
